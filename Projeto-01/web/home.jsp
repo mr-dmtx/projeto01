@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Projeto 01</h1>
-        <h2>Calculo de amortização</h2>
+        <h2>Cálculo de amortização</h2>
         <nav>
             <%@include file="WEB-INF/jspf/menu.jspf"%>
         </nav>
